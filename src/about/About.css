@@ -1,0 +1,11 @@
+.carousel-indicators li{
+width: 0px !important;
+height: 0px !important;
+}
+.imageHeight {
+    height: 500px;
+}
+.About-profilePic{
+    float: left;
+    margin: 0 1em 1em 0;
+}
